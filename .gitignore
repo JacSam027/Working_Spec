@@ -1,0 +1,8 @@
+# 运行时产物（模板在 templates/ 下，这里只忽略根目录的运行时副本，不影响 templates/）
+/UNDERSTANDING.md
+/PLANNING.md
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
